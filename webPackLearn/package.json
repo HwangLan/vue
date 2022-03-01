@@ -1,0 +1,20 @@
+{
+  "name": "webPackLearn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webPack serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.5.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
